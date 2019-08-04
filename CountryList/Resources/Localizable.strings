@@ -1,0 +1,11 @@
+"countryList_title" = "Select a Country";
+"countryList_search_placeholder" = "Search countries...";
+
+"countryList_calls_label" = "Calls";
+"countryList_sms_label" = "Sms";
+
+"details_footer_label" = "Information about the subscription:\nSubscription give you access personal phone number and ads-free experience. The subscription prices are USD or equal to the same price tier that “Apple’s App Store Matrix” determines in other currencies. This subscription will be charged to iTunes account at confirmation of purchase and auto-renews at the end of each month, unless cancelled at least 24-hours in advance before the end of the current period. You can manage the subscription or turn off auto-renew at any time from your iTunes Account settings. Any unused portion of a trial period if offered will be forfeited when you purchase a subscription, where applicable.";
+
+
+"purchase_feature_call" = "3 days free, then $7.99/wk,\nif not cancelled";
+"purchase_feature_additional" = "Some additional title\nfor this feature";

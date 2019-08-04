@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "United States",
+        "flag": "🇺🇸",
+        "featureList": ["calls", "sms"]
+    },
+    {
+        "id": 2,
+        "name": "Canada",
+        "flag": "🇨🇦",
+        "featureList": ["calls", "sms"]
+    },
+    {
+        "id": 3,
+        "name": "Australia",
+        "flag": "🇦🇺",
+        "featureList": ["calls"]
+    },
+    {
+        "id": 4,
+        "name": "Belgium",
+        "flag": "🇧🇪",
+        "featureList": ["calls"]
+    },
+    {
+        "id": 5,
+        "name": "Cyprus",
+        "flag": "🇨🇾",
+        "featureList": ["calls"]
+    },
+    {
+        "id": 6,
+        "name": "Czech Republic",
+        "flag": "🇨🇿",
+        "featureList": ["calls"]
+    },
+    {
+        "id": 7,
+        "name": "Denmark",
+        "flag": "🇩🇰",
+        "featureList": ["calls"]
+    },
+    {
+        "id": 8,
+        "name": "Estonia",
+        "flag": "🇪🇪",
+        "featureList": ["calls"]
+    },
+    {
+        "id": 9,
+        "name": "Finland",
+        "flag": "🇫🇮",
+        "featureList": ["calls"]
+    },
+    {
+        "id": 10,
+        "name": "France",
+        "flag": "🇫🇷",
+        "featureList": ["calls"]
+    },
+    {
+        "id": 10,
+        "name": "Greece",
+        "flag": "🇬🇷",
+        "featureList": ["calls"]
+    },
+    {
+        "id": 11,
+        "name": "Spain",
+        "flag": "🇪🇸",
+        "featureList": ["calls"]
+    },
+    {
+        "id": 11,
+        "name": "Gabon",
+        "flag": "🇬🇦",
+        "featureList": ["calls"]
+    }
+]
